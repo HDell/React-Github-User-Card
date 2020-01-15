@@ -140,6 +140,10 @@ body {
   margin-bottom: 30px;
 }
 
+.card:hover {
+  background-color: gold;
+}
+
 .card img {
   width: 150px;
   height: 150px;
